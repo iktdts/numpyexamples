@@ -1,2 +1,1 @@
-# numpyexamples
-Examples of numpy
+# workshop
